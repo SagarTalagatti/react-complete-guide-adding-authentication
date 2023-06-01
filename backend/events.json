@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Another event","image":"https://shagunresortigatpuri.com/wp-content/uploads/2021/03/corporate-events-500x500-1.jpg","date":"2022-02-10","description":"Some good event","id":"1751c8c8-27ab-4eeb-9dc5-d5e577e8d10d"},{"title":"An event","image":"https://www.muenchenevent.de/sites/default/files/media/images/default--og-image--me.jpg","date":"2002-10-10","description":"An interesting event!!!","id":"9ed34011-7533-4f2b-acd9-73559cea55c9"}],"users":[{"email":"test@test.gmail.com","password":"$2a$12$QDG/NaBXKbX5xYW1K2W8KuR4PpEg7HQqXtKAJH3X4K5Qr4ZDmx7cC","id":"3c3b7058-96e8-4a6a-93ff-09e846701248"},{"email":"test@test.gmail.coma","password":"$2a$12$ncvjT0JmQkE6i2II3vFKTeX33qcx.ut.crDY1UEJXPK.2GU6sV60G","id":"10f4e3d1-6341-4fe0-bfa5-38ad6d9b5c58"},{"email":"sagartalagatti@gmail.com","password":"$2a$12$JHLfrb2ae8aCmxlHLfNHcOqUNlm5PzUuebQCo7ki/2cT0WXRZ47di","id":"b34fef58-b074-4e40-ae45-43c107997f45"},{"email":"gobagubban@gmail.com","password":"$2a$12$7ttxxrZEj27DCBfeyBT7QOd0UEX13pSjAna47SuZso5fZ011xB16S","id":"d7c02061-8028-4972-aba6-4726ea3170de"},{"email":"test@test.com","password":"$2a$12$DoagtKaNVl5E0qWuvakg2O3dP4AG7nsLQYZjTIHQCelvtiSv/RhJi","id":"86def806-7a75-4ada-8e52-41f938728613"}]}
